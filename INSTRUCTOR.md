@@ -32,8 +32,8 @@
 - Fill out __Repository Name__ and __Description__. Select __Public__ (or __Private__ if it's available under the current pricing plan), 
 and __Initialize this repository with a README__. Click on __Add .gitignore__ and select the appropriate programming language from the dropdown menu.
     - Best practice
-        - Repository name: `a<number>-<description>`
-            - E.g. a1-hello-world
+        - Repository name: `<course-code>-a<number>-<description>`
+            - E.g. sc001-a1-hello-world
         - Description: `Assignment <number> for <course-code>: <description>`
             - E.g. Assignment 1 for SC001: Hello World
 - __Create repository__
@@ -59,7 +59,7 @@ Select __Import starter code using source importer__ (or __Import starter code u
 
 - Clone the repository created for the assignment
 - Update the repository locally
-- Update README.md with instructions
+- Update `README.md` with instructions
 - Push the repository to GitHub
 
 ###### Assignment Structure
